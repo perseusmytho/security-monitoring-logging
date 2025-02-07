@@ -36,9 +36,4 @@ This project focuses on **security monitoring and logging** to detect system eve
 🔹 **File integrity monitoring** ensures critical system files remain **uncompromised**.  
 🔹 **Security event auditing** helps detect suspicious cryptographic operations.  
 
-<h2>📢 About Me</h2>
-
-👨‍💻 **Marc Corona**  
-🔗 [GitHub](https://github.com/YOUR_GITHUB) | 💼 [LinkedIn](https://www.linkedin.com/in/marc-corona-mireles)  
-
 ---
