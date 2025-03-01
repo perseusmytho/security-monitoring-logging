@@ -23,12 +23,6 @@ This project focuses on **security monitoring and logging** to detect system eve
 
 📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18704200/Implementing.Security.Monitoring.and.Logging.4e.-.Marc.Corona.pdf)**  
 
-📂 **Log Files & Monitoring Configurations**:
-- `windows_security_events.evtx` – Windows Event Viewer logs  
-- `linux_syslog.conf` – Linux logging configuration  
-- `snort_alerts.log` – Captured Snort intrusion detection alerts  
-- `tripwire_report.txt` – File integrity check results  
-
 <h2>✅ Security Best Practices & Key Takeaways</h2>
 
 🔹 **Log monitoring** is essential for detecting **unauthorized access attempts**.  
