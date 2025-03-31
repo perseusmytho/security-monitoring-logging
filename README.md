@@ -21,7 +21,7 @@ This project focuses on **security monitoring and logging** to detect system eve
 
 <h2>🚀 Report & Documentation</h2>
 
-📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18704200/Implementing.Security.Monitoring.and.Logging.4e.-.Marc.Corona.pdf)**  
+📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/19540281/Implementing.Security.Monitoring.and.Logging.-.Marc.Corona.Mireles.pdf)**  
 
 <h2>✅ Security Best Practices & Key Takeaways</h2>
 
